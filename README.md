@@ -1,3 +1,5 @@
+# :warning:  Archived. Please visit official [CITF repository](https://github.com/CITF-Malaysia/citf-public) for updated database.
+
 # Data on Malaysia COVID-19 (coronavirus) vaccinations 
 
 All data are collected from [JKJAV Social Media](https://www.facebook.com/jkjavmy/photos) and updated daily. 
